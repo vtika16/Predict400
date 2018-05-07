@@ -4,7 +4,7 @@
 #makes it diff from matrix since its only a two dimensional array
 #
 
-print("hey bitch")
+print("hey")
 I = int(5)
 
 print(I)
